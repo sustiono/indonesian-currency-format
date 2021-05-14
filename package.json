@@ -1,0 +1,9 @@
+{
+  "name": "indonesian-currency-format",
+  "version": "1.0.0",
+  "description": "Library which has a function to display Indonesian currency in several formats such as the Rp symbol, spelling, and IDR format",
+  "main": "index.js",
+  "repository": "https://github.com/sustiono/indonesian-currency-format",
+  "author": "Sustiono",
+  "license": "MIT"
+}
